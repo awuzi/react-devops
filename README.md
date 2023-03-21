@@ -13,8 +13,7 @@ Equipe 4
 - une branche d'intégration/pré-prod: `staging`
 - une branche de production: `main`
 
-Lors de nouvelle feature une nouvelle branche `feature/` a partir de `dev` puis lorsque celle-ci est complète l'on créer une pull request afin de pouvoir merge sur dev
-de même pour un bugfix.
+Lors de nouvelle feature une nouvelle branche `feature/` a partir de `dev` puis lorsque celle-ci est complète l'on créer une pull request afin de pouvoir merge sur dev de même pour un bugfix.
 
 Si la pull request est coché verte dans la CI ✔ et que les autres développeurs ont approuvé lors de review alors on peut merge celle-ci.
 
