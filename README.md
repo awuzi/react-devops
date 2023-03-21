@@ -5,6 +5,7 @@ Equipe 4
 - EVANO Thomas
 - LAMRI Yahia
 - BAYRAKLI Diyar
+- VAUTOUR Jessy
 
 ## Etape 2 - Définition des méthodes de gestion des branches
 
