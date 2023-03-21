@@ -19,4 +19,6 @@ Si la pull request est coché verte dans la CI ✔ et que les autres développeu
 
 Cela déclenche donc une actualisation de la branche `dev` avec un nouveau passage de tests et build, s'ils s'effectuent avec succès alors la branche `dev` est push sur `staging`.
 
+OK
+
 
